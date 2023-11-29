@@ -6,4 +6,4 @@ You can add Whatever text you want here, and git will preserve each version of t
 
 THIS CONTAINS A TYPO WHICH WE WILL FIX.
 
-Yay :) Undoing Staged Commits
+Yay :)
